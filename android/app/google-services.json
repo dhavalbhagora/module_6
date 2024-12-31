@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641268671805",
+    "project_id": "dhavalchat-4d4d8",
+    "storage_bucket": "dhavalchat-4d4d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641268671805:android:999015015cbd29f611d154",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lI3vxPVyKbArpRNJVrFiufihCsIi7lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
